@@ -1,5 +1,3 @@
-<img src="/img/welcome.jpg" alt="Welcome">
-
 Hello, I'm Canh　<img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">
 
 My website: https://canhhfh.github.io/
